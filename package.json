@@ -1,0 +1,15 @@
+{
+  "name": "global-chat",
+  "version": "1.0.0",
+  "description": "A Discord bot to sync channels between servers",
+  "main": "index.js",
+  "repository": "https://github.com/DJS-JPN/global-chat.git",
+  "author": "DJS-JPN",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0",
+    "sqlite": "^2.9.2"
+  }
+}
